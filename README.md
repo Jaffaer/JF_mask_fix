@@ -3,3 +3,6 @@
 
 ## Installation
 1. Find qbx_smallresources Place the resource inside `qbx_smallresources` folder.
+
+## update cooming 
+for addon clothing 
